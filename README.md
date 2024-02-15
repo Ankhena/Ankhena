@@ -1,4 +1,10 @@
-### Hi there 👋
+### Привет 🤗
+
+Меня зовут Аня. 
+
+Связаться со мной можно через [Telegram](https://t.me/Ankhena)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankhena&theme=github)
 
 <!--
 **Ankhena/Ankhena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

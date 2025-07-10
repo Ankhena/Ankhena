@@ -20,7 +20,7 @@
 
 Узнать стоимость и варианты консультаций можно [тут](https://sitist.ru/consultations.html)
 
-<img alt="Анна Лисененкова - автор курсов по веб-разработке" width="300px" src="https://private-user-images.githubusercontent.com/20879307/464723476-834eae1d-5b2f-4428-9f89-c2c1070fcb63.jpg?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NTIxNTA5MzksIm5iZiI6MTc1MjE1MDYzOSwicGF0aCI6Ii8yMDg3OTMwNy80NjQ3MjM0NzYtODM0ZWFlMWQtNWIyZi00NDI4LTlmODktYzJjMTA3MGZjYjYzLmpwZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNTA3MTAlMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjUwNzEwVDEyMzAzOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTBiNzdlM2ZiZTkwMDRmZWZlZTA0ZmNiOTZiZjVhOWE4Y2NiNzVmYmIxZGM4YmI4ZDdiNjAxZDhmM2M2MmFkYjQmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.p6JFyBogjNcuFon_KIH0fIeShr4Xu2J0lyQLAe-kYXQ" />
+<img alt="Анна Лисененкова - автор курсов по веб-разработке" width="300px" src="https://sitist.ru/img/Anna1@1x.jpg" />
 
 
 ## &nbsp;

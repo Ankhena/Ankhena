@@ -15,6 +15,11 @@
 
 И другие статьи на [Sitist.ru](https://sitist.ru/)
 
+## Утилиты
+- [Клонирование нескольких репозиториев оптом](https://github.com/Ankhena/Utils.clone-repo) — для наставников групп
+- [HTML в PDF Генератор с Puppeteer](https://github.com/Ankhena/Utils.html-to-pdf)
+- [Генерация красивых скриншотов для оформления сайтов в портфолио](https://github.com/Ankhena/Utils.adaptive-preview-generator)
+
 ## Консультации
 Я&nbsp;нежно люблю вёрстку. Вам ко&nbsp;мне, если вы&nbsp;хотите научиться писать красивый, чистый, качественный код. Мой стиль наставничества&nbsp;&mdash; индивидуальный подход и&nbsp;неравнодушие.
 
